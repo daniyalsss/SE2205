@@ -2,7 +2,6 @@ public class Test{
 
   public static void main(String[] args)throws Exception
   {
-    int testPart = Integer.parseInt(args[0]);
     
     Assignment1 a1 = new Assignment1();
     int n = 8;
