@@ -58,7 +58,7 @@ public class Assignment1 {
         }
         return matrix;
     }
-    // Split parent matrix into child matrices
+    // Split parent into child matrices
     public void split(int[][] P, int[][] C, int x, int y, int size)
     {
         for(int i = 0, j = x; i < size; i++, j++) {
